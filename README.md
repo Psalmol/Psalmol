@@ -16,4 +16,4 @@
 📂 Explore my repos below for schematics, code, and deployment notes.
 
 📫 Let's collaborate: akpsalmol@gmail.com
-🌐 LinkedIn: https://linkedin.com/in/your-username
+🌐 LinkedIn: https://www.linkedin.com/in/olalekan-samuel-akadiri-9b43a91b3/
