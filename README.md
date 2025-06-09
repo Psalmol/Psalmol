@@ -9,9 +9,9 @@
 - Circuit Design & Power Systems (Proteus, MATLAB Simulink)
 
 🔧 **Projects I'm proud of:**
-- 🚗 Crash Detection System – Real-time SMS alerts with GPS using ESP32 + LSM6DS3 + SIM800L
+- 🚗 [Crash Detection System](https://github.com/Psalmol/crash-detection-system) – Real-time SMS alerts with GPS using ESP32 + LSM6DS3 + SIM800L
 - 🐛 Pest Detection System – Pi-based vision system using Edge Impulse + Blynk IoT dashboard
-- 🌱 Smart Agriculture Monitoring – Soil health and pest alerts via mobile interface
+- 🌱 [Smart Agriculture Monitoring](https://github.com/Psalmol/smart-agriculture-monitoring) – Soil health and pest alerts via mobile interface
 
 📂 Explore my repos below for schematics, code, and deployment notes.
 
